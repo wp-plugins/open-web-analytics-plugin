@@ -1,4 +1,4 @@
-=== Open Web Analytics ===
+=== Open Web Analytics Plugin===
 Contributors: chrische
 Tags: owa, openwebanalytics, analytics, stats, statistics
 Requires at least: 2.5
