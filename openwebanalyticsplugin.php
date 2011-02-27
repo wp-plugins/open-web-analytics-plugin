@@ -4,7 +4,7 @@ Plugin Name: Open Web Analytics
 Plugin URI: http://www.chrische.de/open-web-analytics-wordpress-plugin
 Description: This plugin makes it simple to add the Open Web Analytics tracking-code to your wordpress. <a href="options-general.php?page=openwebanalytics.php">Configuration Page</a>
 Author: Christian Schmidt
-Version: 1.1
+Version: 1.2
 Author URI: http://www.chrische.de/
 License: GPL
 
