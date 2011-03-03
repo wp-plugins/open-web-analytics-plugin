@@ -3,7 +3,7 @@ Contributors: chrische
 Tags: owa, openwebanalytics, analytics, stats, statistics, open web analytics, statistics
 Requires at least: 2.5
 Tested up to: 3.1
-Stable tag: 1.2
+Stable tag: 1.3
 
 This plugin adds the Open Web Analytics javascript code into the footer of
 your website. It has several useful options.
@@ -40,6 +40,8 @@ See also [The plugin URL](http://www.chrische.de/open-web-analytics-wordpress-pl
 1. Configure the Plugin: enter site ID, and the path to your OWA-Installation (for example /owa/)
 
 == Changelog ==
+= 1.3 =
+* fixed naming issues resulting in conflict with official OWA plugin again
 
 = 1.2 =
 * fixed naming issues resulting in conflict with official OWA plugin
@@ -65,6 +67,8 @@ A2: Make sure you're not logged in as admin.
 1. Settings of the Plugin
 
 == Upgrade Notice ==
+= 1.3 =
+- As the Plugin is renamed, you'll have to reactivate it after Upgrading.
 
 = 1.2 =
 - As the Plugin is renamed, you'll have to reactivate it after Upgrading.
